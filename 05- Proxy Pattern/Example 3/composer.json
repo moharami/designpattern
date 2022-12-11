@@ -1,0 +1,15 @@
+{
+    "name": "amir/proxy3",
+    "autoload": {
+        "psr-4": {
+            "Amir\\Proxy3\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "amir",
+            "email": "a.moharami@gmail.com"
+        }
+    ],
+    "require": {}
+}
