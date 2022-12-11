@@ -1,0 +1,8 @@
+{
+  "name": "amir/proxy",
+  "autoload": {
+    "psr-4": {
+      "Amir\\Proxy\\": "src/"
+    }
+  }
+}
