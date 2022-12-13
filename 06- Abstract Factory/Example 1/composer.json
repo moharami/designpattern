@@ -1,8 +1,8 @@
 {
-    "name": "amir/proxy3",
+    "name": "amir/abstract1",
     "autoload": {
         "psr-4": {
-            "Amir\\Proxy3\\": "src/"
+            "Amir\\Abstract1\\": "src/"
         }
     },
     "authors": [
